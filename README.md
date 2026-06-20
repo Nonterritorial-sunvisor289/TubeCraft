@@ -171,6 +171,20 @@ TubeCraft arayüzünde birçok dili yerel olarak destekler! İstediğiniz zaman 
 
 <br>
 
+## <span style="font-size: 1.8em;">⚠️ Legal Disclaimer / Yasal Uyarı</span>
+
+<p style="font-size: 1.05em; line-height: 1.7;">
+  <b>🇬🇧 English:</b><br>
+  TubeCraft is an <b>independent, open-source browser extension</b> developed by a third-party developer. It is <b>not affiliated with, endorsed by, sponsored by, or in any way officially connected to YouTube, Google LLC, or any of their subsidiaries or affiliates.</b> The name "YouTube" and the YouTube logo are <b>registered trademarks of Google LLC.</b> All product and company names mentioned are the property of their respective owners. TubeCraft simply interacts with the publicly accessible YouTube web interface and does not claim any ownership of YouTube's platform, content, or intellectual property.
+</p>
+
+<p style="font-size: 1.05em; line-height: 1.7;">
+  <b>🇹🇷 Türkçe:</b><br>
+  TubeCraft, üçüncü taraf bir geliştirici tarafından oluşturulmuş <b>bağımsız, açık kaynaklı bir tarayıcı eklentisidir.</b> Bu eklenti; <b>YouTube, Google LLC veya bunların herhangi bir yan kuruluşu ya da iştiraki ile herhangi bir resmi bağlantısı, ortaklığı, onayı veya sponsorluğu bulunmamaktadır.</b> "YouTube" adı ve YouTube logosu, <b>Google LLC'nin tescilli ticari markalarıdır.</b> Bahsi geçen tüm ürün ve şirket isimleri ilgili sahiplerinin mülkiyetindedir. TubeCraft yalnızca YouTube'un herkese açık web arayüzüyle etkileşime girmekte olup YouTube'un platformu, içeriği veya fikri mülkiyeti üzerinde hiçbir hak iddiasında bulunmamaktadır.
+</p>
+
+<br>
+
 <div align="center">
   <p style="font-size: 1.2em;">
     <sub>Built with ❤️ and excessive amounts of coffee.</sub>
