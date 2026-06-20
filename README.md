@@ -75,11 +75,11 @@ TubeCraft supports a wide variety of languages natively in its interface! You ca
 ## <span style="font-size: 1.8em;">🛠️ Installation Guide (Unpacked Extension)</span>
 
 <p style="font-size: 1.1em;">
-  Since TubeCraft is currently an exclusive beta and not available on the Chrome Web Store, please follow these precise step-by-step instructions to install it directly from your local machine:
+  Since TubeCraft is currently an exclusive beta and not available on the Chrome Web Store, please follow these precise step-by-step instructions to install it:
 </p>
 
 <ol style="font-size: 1.1em; line-height: 1.7;">
-  <li><b>Acquire the Source Code:</b> Download this repository as a <code>.zip</code> file and extract it, or clone it using Git to a dedicated folder on your computer.</li>
+  <li><b>Download the Release ZIP:</b> Go to the <a href="https://github.com/atilla-yalin-oksuz/TubeCraft/releases">Releases</a> page, download the latest <code>TubeCraft-v1.0.0.zip</code>, and extract it to a folder on your computer. (Alternatively, you can clone this repository using Git).</li>
   <li><b>Access the Extensions Dashboard:</b> Open your Chromium-based browser (such as Google Chrome, Brave, Edge, or Vivaldi) and type exactly <code>chrome://extensions/</code> into the URL address bar, then hit <b>Enter</b>.</li>
   <li><b>Activate Developer Mode:</b> Look at the top right corner of the extensions page. You will see a toggle switch labeled <b>Developer mode</b>. Turn it <b><span style="color: #2ed573;">ON</span></b>.</li>
   <li><b>Load the Extension:</b> Once Developer Mode is active, a new menu bar will appear at the top left. Click on the button that says <b>Load unpacked</b>.</li>
@@ -148,11 +148,11 @@ TubeCraft arayüzünde birçok dili yerel olarak destekler! İstediğiniz zaman 
 ## <span style="font-size: 1.8em;">🛠️ Kurulum Rehberi (Paketlenmemiş Uzantı)</span>
 
 <p style="font-size: 1.1em;">
-  TubeCraft şu anda özel bir beta sürümünde olduğu ve henüz Chrome Web Mağazası'nda yer almadığı için, eklentiyi doğrudan bilgisayarınızdan kurmak adına lütfen aşağıdaki adımları sırasıyla ve eksiksiz uygulayın:
+  TubeCraft şu anda özel bir beta sürümünde olduğu ve henüz Chrome Web Mağazası'nda yer almadığı için, eklentiyi kurmak adına lütfen aşağıdaki adımları sırasıyla uygulayın:
 </p>
 
 <ol style="font-size: 1.1em; line-height: 1.7;">
-  <li><b>Kaynak Kodunu Edinin:</b> Bu projeyi bir <code>.zip</code> dosyası olarak bilgisayarınıza indirin ve klasöre çıkartın ya da Git kullanarak bilgisayarınızdaki özel bir klasöre klonlayın.</li>
+  <li><b>Sürüm ZIP Dosyasını İndirin:</b> <a href="https://github.com/atilla-yalin-oksuz/TubeCraft/releases">Releases (Sürümler)</a> sayfasına gidin, en güncel <code>TubeCraft-v1.0.0.zip</code> dosyasını indirin ve bilgisayarınızda bir klasöre çıkartın. (Alternatif olarak bu depoyu Git ile klonlayabilirsiniz).</li>
   <li><b>Uzantılar Paneline Erişin:</b> Chromium tabanlı tarayıcınızı (Google Chrome, Brave, Edge veya Vivaldi gibi) açın. Adres çubuğuna tam olarak <code>chrome://extensions/</code> yazın ve <b>Enter</b> tuşuna basın.</li>
   <li><b>Geliştirici Modunu Aktifleştirin:</b> Açılan uzantılar sayfasının sağ üst köşesine bakın. Orada <b>Geliştirici modu (Developer mode)</b> adında bir anahtar/buton göreceksiniz. Onu <b><span style="color: #2ed573;">AÇIK</span></b> konuma getirin.</li>
   <li><b>Uzantıyı Yükleyin:</b> Geliştirici Modu aktif olduktan sonra, sol üstte yeni bir menü çubuğu belirecektir. Oradaki <b>Paketlenmemiş öğe yükle (Load unpacked)</b> butonuna tıklayın.</li>
